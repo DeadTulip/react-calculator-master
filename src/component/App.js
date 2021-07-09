@@ -5,14 +5,12 @@ import calculate from "../logic/calculate";
 import "./App.css";
 
 export default class App extends React.Component {
-  state = {
+    state = {};
 
-  };
+    handleClick = buttonName => {
+    };
 
-  handleClick = buttonName => {
-  };
+    render() {
 
-  render() {
-
-  }
+    }
 }

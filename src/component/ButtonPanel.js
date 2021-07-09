@@ -5,13 +5,12 @@ import PropTypes from "prop-types";
 import "./ButtonPanel.css";
 
 export default class ButtonPanel extends React.Component {
-  static propTypes = {
-  };
+    static propTypes = {};
 
-  handleClick = buttonName => {
-  };
+    handleClick = buttonName => {
+    };
 
-  render() {
+    render() {
 
-  }
+    }
 }
